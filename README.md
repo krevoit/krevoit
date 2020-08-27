@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Krish. I work for VNP DIGITAL, and I am also a Network Manager.
+I'm Krish. I am a Networking Administrator, I also sometimes develop small front-end web projects. You can lurk my page, but not much is here for now :P
 
 - 🔭 I’m currently working on Networking
 - 🌱 I’m currently learning BIRD2
